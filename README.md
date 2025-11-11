@@ -20,3 +20,13 @@
 <br>
 
 ## About
+
+class Engineer:
+    def __init__(self):
+        self.background = "Process Engineering"
+        self.current_role = "Lead APCS Engineer"
+        self.passion = "Building scalable backend systems"
+        self.stack = ["Java/Spring", "Python/FastAPI", "Go/Gin"]
+        
+    def approach(self):
+        return "Industrial precision meets clean code"
